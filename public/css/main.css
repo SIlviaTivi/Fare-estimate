@@ -1,6 +1,21 @@
-*{
-  margin: 0;
-  padding: 0;
+body{
+  text-align: center;
 }
+ div#map{
+  width: 50%;
+  height: 90vh;
+} 
+.mgtop_btn{
+  margin-top: 20px;
+}
+.miruta{
+  width: 80%;
+  margin-top: 20px;
+} 
 
-
+nav{
+  background-color: #020202;
+}
+.btn{
+  background-color: #686968;
+}
